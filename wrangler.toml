@@ -1,5 +1,6 @@
 # wrangler.toml - place at repository root
-name = "everlight-ai"
+# wrangler.toml
+name = 'everlight-federation-api'
 account_id = "74b94b7ffc15701b77e53f81bea03813"
 compatibility_date = "2025-12-10"
 workers_dev = false
